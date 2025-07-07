@@ -1,0 +1,75 @@
+.header{
+    h1{
+        color: darkblue;
+        text-align: center;
+        
+    }
+
+    main{
+        text-align: center;
+    }
+
+    .open{
+        float: right;
+        margin-top: -67px;
+        
+    }
+
+    .products{
+        p{
+          font-size: 20px;
+          color: darkred;
+        }
+    }
+    padding: 30px;
+    
+}
+
+.header{
+    background-image: url(C:\Users\san\Pictures\Hoods\H1a10a9521ac74ccb90d8148803bc0899y.jpg);
+}
+
+.whyus{
+    h3{
+        background-color: dodgerblue;
+        text-align: center;
+        
+    }
+    
+    padding: 40px;
+    background-color: rgb(8, 192, 192);
+}
+
+.main{
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+    }
+
+    img{
+        width: 300px;
+    }
+
+    background-color: rgb(65, 31, 89);
+    
+    p{
+        text-align: center;
+        color:chartreuse;
+        font-size:x-large;
+    }
+    
+    h5{
+        text-align: center;
+        color:deeppink;
+        font-size: 20px;
+    }
+}
+
+.footer{
+    background-color:rgb(183, 17, 28);
+    padding: 20px;
+    margin-left: 40px;
+    max-width: 600px;
+}
